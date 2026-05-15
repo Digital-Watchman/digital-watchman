@@ -27,8 +27,9 @@ Bible Seminary Educator transitioning into:
 - NIST CSF
 - ISO 27001
 - Python
+- Wire Shark and Related Security Tools in a Home Lab
 - Linux
-- SIEM Basics,Splunk,Wazuh,IBM Q Radar and Microsoft Sentiinel in a home lab environment
+- Learning SIEM Basics,Splunk,Wazuh,IBM Q Radar and Microsoft Sentinel in a home lab environment
 
 ## Mission
 
