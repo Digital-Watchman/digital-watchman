@@ -1,55 +1,32 @@
-## Hi there 👋
-
-<!--# Digital Watchman
-
-> Cybersecurity • GRC • AI Governance • Ethics
-
-Welcome to my learning and research space focused on:
-
-- Cybersecurity Fundamentals
-- Governance, Risk & Compliance (GRC)
-- AI Governance & AGI Safety
-- Cyber Ethics
-- Security Awareness
-- Risk Management
-- Python for Security
+ # Hi, I'm Digital Watchman
 
 ## About Me
 
-I am a Bible seminary educator transitioning into cybersecurity and governance-focused technology roles.
+Bible Seminary Educator transitioning into:
 
-My interests include:
-- Ethical AI systems
-- Responsible AGI development
-- Cybersecurity governance
-- Security frameworks
-- Digital ethics and human values
+- Cybersecurity
+- Governance, Risk & Compliance (GRC)
+- AI Governance
+- AGI Safety
+- Cyber Ethics
 
-## Current Learning Path
+## Interests
 
-- ISC2 Certified in Cybersecurity (CC)
-- NIST Cybersecurity Framework
+- Ethical AI
+- Cybersecurity Awareness
+- Governance Frameworks
+- Risk Management
+- Responsible Technology
+
+## Currently Learning
+
+- ISC2 CC
+- NIST CSF
 - ISO 27001
-- Microsoft SC-900
-- AI Governance Fundamentals
-- Python & Linux Basics
+- Python
+- Linux
+- SIEM Basics
 
-## Goals
+## Mission
 
-- Build cybersecurity and GRC projects
-- Develop AI governance research
-- Share security awareness resources
-- Contribute to ethical technology discussions
-**Digital-Watchman/digital-watchman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... SOC HOME Labs, Learning Splunk, Wazuh, Wire Shark, Spending time on Try Hack me Rooms and LAabs
-- 🌱 I’m currently learning ...ISC2 CC, GoogleCyber Security Certificate and more... 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...Entry Leveljobs in cyber security who allow room for growth and learning 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...
--->
+To explore how technology, ethics, and governance can work together to build secure and trustworthy digital systems.
