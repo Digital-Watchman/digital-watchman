@@ -9,6 +9,7 @@ Bible Seminary Educator transitioning into:
 - AI Governance
 - AGI Safety
 - Cyber Ethics
+- Ai Ethics
 
 ## Interests
 
@@ -21,11 +22,13 @@ Bible Seminary Educator transitioning into:
 ## Currently Learning
 
 - ISC2 CC
+- Google Cyber Security, eJPT (on going)
+- Learning and Spending Time in Try Hack Me Rooms and Labs 
 - NIST CSF
 - ISO 27001
 - Python
 - Linux
-- SIEM Basics
+- SIEM Basics,Splunk,Wazuh,IBM Q Radar and Microsoft Sentiinel in a home lab environment
 
 ## Mission
 
