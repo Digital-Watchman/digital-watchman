@@ -125,7 +125,13 @@ algorithmic bias, fairness, and transparency in AI systems.
   Risk Management     Responsible Technology      Privacy Rights
   AGI Safety          Open Knowledge Sharing      Moral Philosophy
 ```
+## Portfolio
 
+🌐 Live Portfolio: https://digital-watchman.github.io/My-Portfolio-/
+
+## Connect with me
+
+- GitHub: https://github.com/Digital-Watchman
 ---
 
 ## 📊 GitHub Activity
